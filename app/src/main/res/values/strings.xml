@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">webs2canada</string>
+    <string name="app_home">Home</string>
+    <string name="app_service">Services</string>
+    <string name="app_team">Team</string>
+    <string name="app_port">Portfolio</string>
+    <string name="app_price">Price</string>
+    <string name="app_location">Location</string>
+    <string name="app_connect">Connect with us</string>
+    <string name="app_contact">Contact us</string>
+    <string name="app_facebook">Connect with Facebook</string>
+    <string name="app_linkedin">Connect with Linkedin</string>
+
+    <string name="company">webs2canada</string>
+
+
+    <string name="home">This is Home Page</string>
+    <string name="service">This is Service Page</string>
+    <string name="team">This is Team page</string>
+    <string name="port">This is Portfolio Page</string>
+    <string name="price">This is Price Page</string>
+    <string name="location">This is Location Page</string>
+    <string name="contact">This is Contact Page</string>
+    <string name="facebook">This is facebook Page</string>
+    <string name="linkedin">This is Linkedin Page</string>
+
+    <string name="appmenuname">webs2canada</string>
+    <string name="action_setting">setting</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+
+
+</resources>

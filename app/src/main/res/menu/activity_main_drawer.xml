@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home1"
+            android:icon="@drawable/home1"
+            android:title="@string/app_home"></item>
+        <item
+            android:id="@+id/service1"
+            android:icon="@drawable/service1"
+            android:title="@string/app_service"></item>
+        <item
+            android:id="@+id/team1"
+            android:icon="@drawable/team1"
+            android:title="@string/app_team"></item>
+        <item
+            android:id="@+id/port1"
+            android:icon="@drawable/portfolio1"
+            android:title="@string/app_port"></item>
+        <item
+            android:id="@+id/price1"
+            android:icon="@drawable/price1"
+            android:title="@string/app_price"></item>
+
+        <item
+            android:id="@+id/contact1"
+            android:icon="@drawable/contact1"
+            android:title="@string/app_contact"></item>
+
+        <item
+            android:id="@+id/location"
+            android:icon="@drawable/location"
+            android:title="@string/app_location"></item>
+
+
+
+
+    </group>
+
+    <item android:title="@string/app_connect">
+
+        <menu>
+            <item
+                android:id="@+id/facebook"
+                android:icon="@drawable/facebook"
+                android:title="@string/app_facebook"></item>\
+
+            <item
+                android:id="@+id/linkedin"
+                android:icon="@drawable/linkedin"
+                android:title="@string/app_linkedin"></item>\
+
+
+
+
+
+
+        </menu>
+
+
+    </item>
+
+</menu>
