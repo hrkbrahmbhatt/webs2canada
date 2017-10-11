@@ -25,11 +25,16 @@
     <string name="linkedin">This is Linkedin Page</string>
 
     <string name="appmenuname">webs2canada</string>
-    <string name="action_setting">setting</string>
+    <string name="action_settings">Setting</string>
     <string name="navigation_drawer_open">Open Navigation Drawer</string>
     <string name="navigation_drawer_close">Close Navigation Drawer</string>
 
 
+    <string name="action_add_favourite">Facebook</string>
+    <string name="action_play_next">Linkedin</string>
+    <string name="backdrop_title">PROFESSIONAL TEAM</string>
+    <string name="backdrop_subtitle">Our Team is Our Strength</string>
+    <string name="title_activity_maps">Our Location</string>
 
 
 </resources>
